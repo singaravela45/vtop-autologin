@@ -18,7 +18,7 @@ Download or Clone this repository:<br>
 https://github.com/singaravela45/vtop-autologin.git<br>
 open vtop.js and enter your username and password in username field and password field 
 Open Chrome and go to:  
-**`chrome://extensions/`**
+**`chrome://extensions/`**<br>
 Enable Developer Mode (toggle in the top right).
 Click Load unpacked and select the downloaded project folder.
 The extension will be installed and visible in the Chrome toolbar.
