@@ -10,12 +10,10 @@ VTOP Auto Login is a script designed to automate the login process for VIT's VTO
 - Customizable for additional automation.
 
 ## <span style="font-family: Arial, sans-serif;">Prerequisites</span>
-- Python 3.x
-- `selenium` package
-- Chrome WebDriver (compatible with your Chrome version)
+-Google Chrome Browser
+-Developer Mode enabled (for manual installation)
 
-## <span style="font-family: Arial, sans-serif;">Installation</span>
-1. Install Python if not already installed: [Download Python](https://www.python.org/downloads/)
-2. Install required dependencies:
-   ```sh
-   pip install selenium
+## <span style="font-family: Arial, sans-serif;">installation</span>
+Download or Clone this repository:
+
+
