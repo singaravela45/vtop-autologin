@@ -15,5 +15,6 @@ VTOP Auto Login is a script designed to automate the login process for VIT's VTO
 
 ## <span style="font-family: Arial, sans-serif;">installation</span>
 Download or Clone this repository:
-
+https://github.com/singaravela45/vtop-autologin.git
+open vtop.js and enter your username and password in
 
