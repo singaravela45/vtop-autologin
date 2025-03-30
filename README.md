@@ -21,5 +21,4 @@ Open Chrome and go to:  <br>
 **`chrome://extensions/`**<br>
 Enable Developer Mode (toggle in the top right).  
 Click Load unpacked and select the downloaded project folder.  
-The extension will be installed and visible in the Chrome toolbar  
-
+The extension will be installed and visible in the Chrome toolbar
