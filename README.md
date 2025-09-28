@@ -10,8 +10,8 @@ VTOP Auto Login is a script designed to automate the login process for VIT's VTO
 - Customizable for additional automation.
 
 ## <span style="font-family: Arial, sans-serif;">Prerequisites</span>
--Google Chrome Browser
--Developer Mode enabled (for manual installation)
+Google Chrome Browser
+Developer Mode enabled (for manual installation)
 
 ## <span style="font-family: Arial, sans-serif;">installation</span>
 Download or Clone this repository:<br>
