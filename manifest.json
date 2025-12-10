@@ -4,14 +4,10 @@
     "version": "2.0",
     "description": "Automatically logs into VTOP VIT.",
     "permissions": ["storage", "scripting"],
-    
-    
     "content_scripts": [
       {
         "matches": ["https://vtop.vit.ac.in/vtop/login"],
         "js": ["vtop.js"]
       }
     ]
-    
   }
-  
