@@ -1,8 +1,8 @@
 (function () {
   "use strict";
 
-  const username = "your username"; // Change to your credentials
-  const password = "your password";
+  const username = "7092624365SING"; // Change to your credentials
+  const password = "Vtop@@24365";
   const initialButton = document.querySelector(".btn.btn-primary.fw-bold");
   const usernameField = document.querySelector("#username");
   const passwordField = document.querySelector("#password");
